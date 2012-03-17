@@ -44,23 +44,23 @@
 		FDE4A6C51502BA3B0013FA39 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		FDE4A6C71502BA3B0013FA39 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		FDE4A6C91502BA3B0013FA39 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
-		FDE4A6CD1502BA3B0013FA39 /* Game-Info.plist */ = {isa = PBXFileReference; path = "Game-Info.plist"; sourceTree = "<group>"; };
+		FDE4A6CD1502BA3B0013FA39 /* Game-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Game-Info.plist"; sourceTree = "<group>"; };
 		FDE4A6CF1502BA3B0013FA39 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FDE4A6D11502BA3B0013FA39 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FDE4A6D31502BA3B0013FA39 /* Game-Prefix.pch */ = {isa = PBXFileReference; path = "Game-Prefix.pch"; sourceTree = "<group>"; };
-		FDE4A6D41502BA3B0013FA39 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		FDE4A6D31502BA3B0013FA39 /* Game-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Game-Prefix.pch"; sourceTree = "<group>"; };
+		FDE4A6D41502BA3B0013FA39 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FDE4A6D51502BA3B0013FA39 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FDE4A6D81502BA3B0013FA39 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		FDE4A6DB1502BA3B0013FA39 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		FDE4A6DD1502BA3B0013FA39 /* Shader.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = Shader.fsh; path = Shaders/Shader.fsh; sourceTree = "<group>"; };
 		FDE4A6DF1502BA3B0013FA39 /* Shader.vsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = Shader.vsh; path = Shaders/Shader.vsh; sourceTree = "<group>"; };
-		FDE4A6E11502BA3B0013FA39 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		FDE4A6E11502BA3B0013FA39 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		FDE4A6E21502BA3B0013FA39 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		FDE4A6E91502BA3C0013FA39 /* GameTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GameTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDE4A6EA1502BA3C0013FA39 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		FDE4A6F21502BA3C0013FA39 /* GameTests-Info.plist */ = {isa = PBXFileReference; path = "GameTests-Info.plist"; sourceTree = "<group>"; };
+		FDE4A6F21502BA3C0013FA39 /* GameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GameTests-Info.plist"; sourceTree = "<group>"; };
 		FDE4A6F41502BA3C0013FA39 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FDE4A6F61502BA3C0013FA39 /* GameTests.h */ = {isa = PBXFileReference; path = GameTests.h; sourceTree = "<group>"; };
+		FDE4A6F61502BA3C0013FA39 /* GameTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameTests.h; sourceTree = "<group>"; };
 		FDE4A6F71502BA3C0013FA39 /* GameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
